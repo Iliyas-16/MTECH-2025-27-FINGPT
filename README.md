@@ -4,4 +4,4 @@ A FinGPT-Driven Dual Stream Attention Network for Stock Return Forecasting From 
 ## Project Batch Details
 |Roll No|Student Name|email-id|Mobile Number|Photo|
 |:------|:-----------|:-------|:------------|:----|
-|254G1D0505|ANNEKHAJA ILIYAS|254G1D0505@srit.ac.in|9059302354|![photo](iliyas.jpg)|
+|254G1D0505|ANNEKHAJA ILIYAS|254G1D0505@srit.ac.in|9059302354|![photo](iliyas photo .jpg)|
